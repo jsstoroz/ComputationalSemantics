@@ -1,0 +1,26 @@
+"i nudge alice" - w1, w3, w7, w8
+"snowwhite annoys the dwarves" - w3
+"a wizard finds a dagger" - w4, w5
+"many princesses know atreyu" - w4, w5, w9, w10
+"few giants sit" - w1, w3, w9, w10
+"the wizard comes to the princess" - w1
+"this dwarf lives" - w3, w5, w7, w9
+"many wizards work with atreyu" - w4, w5
+"you stay with goldilocks" - w2, w4, w5
+"we receive some swords" - w1, w2
+"the boys play with the daggers" - w1, w2, w7
+"the boys break the daggers" - w2
+"every woman draws a sword" - w2, w4
+"the men choose daggers" - w2
+"the dwarves beleive snowwhite" - w1, w2, w3, w4, w5, w6, w7 w8, w9, w10, w11, w12
+"several girls see the giant" - w1, w2, w3
+"alice reasons with the wizard" - w3, w4
+"some girls admire princesses" - w1, w2, w3, w4, w5, w8, w11, w12
+"those boys admire atreyu" - w1, w2, w6
+"that person alarms goldilocks" - w1, w3, w6, w10, w12
+"atreyu writes to the man" - w3, w7, w8
+"they return from the castle" - w1, w4, w5, w7
+"several giants shout" - w1, w5, w9, w10
+"we speak to dorothy" - w3, w4, w5, w8, w11, w12
+"the boys find alice" - w6, w10, w11, w12
+"many giants break swords" - w11
